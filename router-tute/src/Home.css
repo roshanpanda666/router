@@ -1,0 +1,23 @@
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+ul{
+    display: flex;
+    width: 350px;
+    
+}
+li{
+    margin-left: 10%;
+    list-style: none;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+link{
+    list-style:none;
+}
