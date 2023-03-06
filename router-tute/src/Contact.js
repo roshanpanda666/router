@@ -5,7 +5,7 @@ const Contact = () => {
     <div>
       
       <header>
-        <div className='logo'>Logo</div>
+        
         <nav>
             <ul>
                 <li>

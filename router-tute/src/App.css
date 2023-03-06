@@ -1,4 +1,26 @@
 .darkmode{
     background-color: black;
+    color: cyan;
+    height: 100%;
+    width: 100%;
+}
+
+.whitemode{
+    background-color: white;
+    color: black;
+    height: 100%;
+    width: 100%;
+}
+
+.darkMswitch{
+    height: 30px;
+    border-radius: 10px;
+    background-color: black;
     color: white;
+}
+.lightmswitch{
+    height: 30px;
+    border-radius: 10px;
+    background-color: rgb(13, 223, 226);
+    color: rgb(0, 0, 0);
 }
